@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(230, 230, 230);
+  color: rgb(30, 30, 30);
+  font-family: Courier;
+}
+
+h1 {
+  color: #ff0119;
+  font-family: Calibri;
+  font-weight: 100;
+  letter-spacing: 10px;
+  font-size: 32px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: rgb(100, 100, 100);
+  font-family: Calibri;
+  font-weight: lighter;
+  font-size: 26px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  color: green;
+}
+
+div {
+  background: white;
+  padding: 30px;
+  border: 2px side black;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, .1)
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card-white {
+  background-color: white;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, .1)
+  margin: 10px 0px;
+  text-align: center;
+}
